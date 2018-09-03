@@ -17,3 +17,23 @@ Last update: 26-08-2018
 # AWS services
 ## Polly: Text to speech
 ![2. Polly text to speech](./books/AWS_Services_Polly.png)
+
+## Usercase
+
+### Content Creation
+![Content Creation](/assets/images/posts/2018/polly-usercase/1.PollyCreation.png){:class="img-responsive"}
+  
+### E-Learning
+![E-Learning](/assets/images/posts/2018/polly-usercase/2.PollyElearning.png){:class="img-responsive"}
+  
+### Telephone
+![Telephone](/assets/images/posts/2018/polly-usercase/3.PollyTelephony.png){:class="img-responsive"}
+  
+### Retail
+![Retail](/assets/images/posts/2018/polly-usercase/4.PollyRetail.jpg){:class="img-responsive"}
+  
+### Chatbot
+![Chatbot](/assets/images/posts/2018/polly-usercase/5.PollyApplicationChatBot.png){:class="img-responsive"}
+  
+### IoT
+![IoT](/assets/images/posts/2018/polly-usercase/6.PollyIoT.png){:class="img-responsive"}
