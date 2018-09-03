@@ -21,19 +21,19 @@ Last update: 26-08-2018
 ## Usercase
 
 ### Content Creation
-![Content Creation](https://datsama.com/assets/images/posts/2018/polly-usercase/1.PollyCreation.png){:class="img-responsive"}
+![Content Creation](https://datsama.com/assets/images/posts/2018/polly-usercase/1.PollyCreation.png)
   
 ### E-Learning
-![E-Learning](https://datsama.com/assets/images/posts/2018/polly-usercase/2.PollyElearning.png){:class="img-responsive"}
+![E-Learning](https://datsama.com/assets/images/posts/2018/polly-usercase/2.PollyElearning.png)
   
 ### Telephone
-![Telephone](https://datsama.com/assets/images/posts/2018/polly-usercase/3.PollyTelephony.png){:class="img-responsive"}
+![Telephone](https://datsama.com/assets/images/posts/2018/polly-usercase/3.PollyTelephony.png)
   
 ### Retail
-![Retail](https://datsama.com/assets/images/posts/2018/polly-usercase/4.PollyRetail.jpg){:class="img-responsive"}
+![Retail](https://datsama.com/assets/images/posts/2018/polly-usercase/4.PollyRetail.jpg)
   
 ### Chatbot
-![Chatbot](https://datsama.com/assets/images/posts/2018/polly-usercase/5.PollyApplicationChatBot.png){:class="img-responsive"}
+![Chatbot](https://datsama.com/assets/images/posts/2018/polly-usercase/5.PollyApplicationChatBot.png)
   
 ### IoT
-![IoT](https://datsama.com/assets/images/posts/2018/polly-usercase/6.PollyIoT.png){:class="img-responsive"}
+![IoT](https://datsama.com/assets/images/posts/2018/polly-usercase/6.PollyIoT.png)
