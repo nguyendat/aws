@@ -37,3 +37,7 @@ Last update: 26-08-2018
   
 ### IoT
 ![IoT](https://datsama.com/assets/images/posts/2018/polly-usercase/6.PollyIoT.png)
+
+
+# Serverless
+![Serverless](./books/Serverless.png)
